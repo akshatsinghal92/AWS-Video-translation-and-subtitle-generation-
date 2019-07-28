@@ -1,0 +1,296 @@
+1
+00:00:00,810 --> 00:00:03,339
+Hello and welcome back to the course on deep natural
+
+2
+00:00:03,339 --> 00:00:05,679
+language processing. And today we're going to talk about
+
+3
+00:00:05,690 --> 00:00:09,000
+the types of natural language processing. So we've got
+
+4
+00:00:09,000 --> 00:00:12,130
+two men diagrams here or we got a band diagram
+
+5
+00:00:12,130 --> 00:00:16,589
+of two circles in it, and we're going to
+
+6
+00:00:16,600 --> 00:00:23,230
+look at the different areas off natural language processing that
+
+7
+00:00:23,239 --> 00:00:25,550
+are going to come up in this course. So
+
+8
+00:00:25,620 --> 00:00:30,149
+on the letter got natural language processing overall on DH
+
+9
+00:00:30,429 --> 00:00:33,280
+. This refers to the whole circle on the left
+
+10
+00:00:33,590 --> 00:00:35,630
+. So the reason why we've called in just this
+
+11
+00:00:35,630 --> 00:00:38,490
+green part is because that's the non overlapping part.
+
+12
+00:00:38,500 --> 00:00:42,189
+So we know that anything in here eyes just national
+
+13
+00:00:42,189 --> 00:00:46,070
+language processing without with disregard to this second circle.
+
+14
+00:00:46,240 --> 00:00:50,039
+But natural language processing is indeed everything that is in
+
+15
+00:00:50,039 --> 00:00:53,289
+this first circle. Then we've got on the right
+
+16
+00:00:53,740 --> 00:00:57,850
+deep learning. So these are all algorithms that have
+
+17
+00:00:57,850 --> 00:01:00,439
+something to do with neural networks. Deep learning,
+
+18
+00:01:00,740 --> 00:01:03,540
+basically anything that's called the Deep learned Algren falls in
+
+19
+00:01:03,540 --> 00:01:07,909
+here. They don't have to be national language processing
+
+20
+00:01:07,920 --> 00:01:11,590
+. They could be classification. They could be anything
+
+21
+00:01:11,650 --> 00:01:14,269
+so they could be. That's deplorable. Here on
+
+22
+00:01:14,269 --> 00:01:17,959
+national language processing is any algorithm an immortal that has
+
+23
+00:01:17,959 --> 00:01:23,219
+something to do with President ofthe natural language into machine
+
+24
+00:01:23,590 --> 00:01:26,120
+terms. And then finally, in the overlap,
+
+25
+00:01:26,129 --> 00:01:30,170
+we have deep NLP. So these are models which
+
+26
+00:01:30,180 --> 00:01:34,099
+have to do with national language processing, but also
+
+27
+00:01:34,099 --> 00:01:38,400
+which are deep learning malls, neural network models on
+
+28
+00:01:38,400 --> 00:01:40,680
+DH? Yes. Oh, that's the part that
+
+29
+00:01:40,680 --> 00:01:42,060
+we're going to be aiming for. But it's also
+
+30
+00:01:42,060 --> 00:01:47,950
+very good to have visibility off all three, because
+
+31
+00:01:47,959 --> 00:01:51,209
+in this course we will be talking about some models
+
+32
+00:01:51,209 --> 00:01:52,939
+that fall just in here. And then we'll be
+
+33
+00:01:52,939 --> 00:01:55,109
+talking about most here, and I'll be good to
+
+34
+00:01:55,109 --> 00:01:57,890
+compare and see how the world has changed over time
+
+35
+00:01:57,890 --> 00:02:00,043
+and why these models are off for better than these
+
+36
+00:02:00,043 --> 00:02:02,933
+ones. Um, another thing to note here is
+
+37
+00:02:02,933 --> 00:02:07,902
+that the size of these diagrams is not reflective off
+
+38
+00:02:08,212 --> 00:02:12,923
+the importance or the volumes off thes different fields.
+
+39
+00:02:12,923 --> 00:02:15,673
+So I just said circles of the same size simply
+
+40
+00:02:15,673 --> 00:02:20,173
+because we want a visual representation of off the overlap
+
+41
+00:02:20,173 --> 00:02:23,263
+and that these fields exist. But don't take the
+
+42
+00:02:23,263 --> 00:02:25,242
+size into account. It's not to scale at all
+
+43
+00:02:27,143 --> 00:02:32,103
+. And finally there is another part. Another part
+
+44
+00:02:32,103 --> 00:02:35,992
+of this event diagram, which is very important to
+
+45
+00:02:35,992 --> 00:02:38,263
+us. And it is this part over here,
+
+46
+00:02:38,812 --> 00:02:44,633
+a sub section off a deep NLP cold sequence to
+
+47
+00:02:44,633 --> 00:02:46,453
+sequence. So sequence the sequence models on the most
+
+48
+00:02:46,453 --> 00:02:50,943
+cutting edge the most powerful models that exists right now
+
+49
+00:02:50,943 --> 00:02:53,302
+for national language processing. And that's what we're going
+
+50
+00:02:53,302 --> 00:02:57,573
+to be looking at. So as you'll see throughout
+
+51
+00:02:57,573 --> 00:02:59,592
+this course, you will make a way through the
+
+52
+00:02:59,592 --> 00:03:01,832
+national language processing side of things into deep NLP,
+
+53
+00:03:01,832 --> 00:03:05,652
+and then we'll go into sequence to sequence. It
+
+54
+00:03:05,652 --> 00:03:07,573
+will be a fun and exciting journey on DH.
+
+55
+00:03:07,573 --> 00:03:09,152
+The other thing that I wanted to mention is you
+
+56
+00:03:09,152 --> 00:03:13,532
+will also notice that throughout this course, even though
+
+57
+00:03:13,532 --> 00:03:15,193
+it's focused on chatbots, we won't be talking about
+
+58
+00:03:15,203 --> 00:03:20,203
+Just chat boards will be looking at different examples off
+
+59
+00:03:20,973 --> 00:03:23,443
+how these models from here from here and from here
+
+60
+00:03:23,552 --> 00:03:27,983
+can be applied to different things. Because the applications
+
+61
+00:03:27,992 --> 00:03:30,462
+are huge. We can talk. We can apply
+
+62
+00:03:30,462 --> 00:03:34,013
+them in a natural you neural mission. Translation.
+
+63
+00:03:34,013 --> 00:03:37,182
+We're gonna play them in image capture name. We
+
+64
+00:03:37,182 --> 00:03:42,103
+can apply them in speech recognition questions and answers.
+
+65
+00:03:42,103 --> 00:03:44,272
+Tex immunization. Lots of lots of models, so
+
+66
+00:03:45,293 --> 00:03:47,402
+we will be looking at different ones and they will
+
+67
+00:03:47,402 --> 00:03:50,943
+be up to protect. So this map will come
+
+68
+00:03:50,943 --> 00:03:53,002
+in handy as we go through the course and then
+
+69
+00:03:53,002 --> 00:03:54,052
+we'll be popping up here and there. So I
+
+70
+00:03:54,052 --> 00:03:58,302
+think it was very important for us to set the
+
+71
+00:03:58,312 --> 00:04:00,543
+foundation right, so that now we're age proceed.
+
+72
+00:04:00,983 --> 00:04:02,723
+And I can't wait to see you on the next
+
+73
+00:04:02,723 --> 00:04:05,693
+tutorial. And until then, enjoy deep a national
+
+74
+00:04:05,693 --> 00:04:06,673
+language processing.
+

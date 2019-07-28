@@ -1,0 +1,116 @@
+1
+00:00:00,000 --> 00:00:03,370
+Hola y bienvenidos de nuevo al curso de procesamiento profundo
+
+2
+00:00:03,370 --> 00:00:06,560
+del lenguaje natural. Y hoy vamos a hablar de los
+
+3
+00:00:06,560 --> 00:00:10,640
+tipos de procesamiento del lenguaje natural. Así que tenemos dos
+
+4
+00:00:10,640 --> 00:00:14,089
+diagramas de hombres aquí o tenemos un diagrama de bandas
+
+5
+00:00:14,089 --> 00:00:16,829
+de dos círculos enél, y vamos a ver las
+
+6
+00:00:16,829 --> 00:00:20,489
+diferentesáreas del procesamiento del lenguaje natural que van a
+
+7
+00:00:20,489 --> 00:00:23,939
+aparecer en este curso. Así que en la carta obtuvo
+
+8
+00:00:23,939 --> 00:00:28,089
+procesamiento de lenguaje natural en general en DH. Esto se
+
+9
+00:00:28,089 --> 00:00:31,409
+refiere a todo el círculo a la izquierda. Así que
+
+10
+00:00:31,409 --> 00:00:34,019
+la razón por la que hemos llamado a esta parte
+
+11
+00:00:34,019 --> 00:00:37,909
+verde es porque esa es la parte no superpuesta. Así
+
+12
+00:00:37,909 --> 00:00:41,509
+que sabemos que cualquier cosa aquí los ojos sólo procesamiento
+
+13
+00:00:41,509 --> 00:00:44,539
+de la lengua nacional sin hacer caso omiso de este
+
+14
+00:00:44,539 --> 00:00:48,539
+segundo círculo. Pero el procesamiento del lenguaje natural es de
+
+15
+00:00:48,539 --> 00:00:52,089
+hecho todo lo que está en este primer círculo. Entonces
+
+16
+00:00:52,089 --> 00:00:56,319
+tenemos el aprendizaje profundo correcto. Así que todos estos son
+
+17
+00:00:56,319 --> 00:00:59,689
+algoritmos que tienen algo que ver con las redes neuronales.
+
+18
+00:00:59,689 --> 00:01:03,419
+El aprendizaje profundo, básicamente cualquier cosa que se llame Algren
+
+19
+00:01:03,419 --> 00:01:07,679
+profundo, cae aquí. No tienen que ser procesadoras de idiomas
+
+20
+00:01:07,679 --> 00:01:14,139
+nacionales. Podrían ser clasificación. Podrían ser cualquier cosa para que
+
+21
+00:01:14,139 --> 00:01:18,739
+pudieran serlo. Eso es deplorable. Aquí en el procesamiento del
+
+22
+00:01:18,739 --> 00:01:22,919
+lenguaje nacional hay cualquier algoritmo inmortal que tiene algo que
+
+23
+00:01:22,919 --> 00:01:26,159
+ver con el presidente del lenguaje natural en términos de
+
+24
+00:01:26,159 --> 00:01:32,189
+máquina. Y finalmente, en la superposición, tenemos PNL profundo. Así
+
+25
+00:01:32,189 --> 00:01:34,699
+que estos son modelos que tienen que ver con el
+
+26
+00:01:34,699 --> 00:01:38,749
+procesamiento del idioma nacional, pero que también son centros de
+
+27
+00:01:38,749 --> 00:01:44,079
+aprendizaje profundo, modelos de redes neuronales en DH? Sí. Oh,
+
+28
+00:01:44,079 --> 00:01:46,329
+esa es la parte a la que vamos a apuntar.
+
+29
+00:01:46,329 --> 00:01:49,729
+Pero también es muy bueno tener visibilidad de los tres,
+
